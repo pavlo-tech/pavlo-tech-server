@@ -1,4 +1,4 @@
-package tech.pavlo.server
+package tech.pavlo.service
 
 import com.twitter.finagle.http.{Request, Response}
 import com.twitter.finagle.{Service, http}
